@@ -1,0 +1,50 @@
+# Model files (too large for GitHub)
+*.h5
+*.keras
+*.pb
+*.tflite
+*.ckpt
+*.ckpt.*
+saved_model/
+
+# Dataset (never upload to GitHub)
+archive-2/
+data/
+*.zip
+*.csv
+
+# TensorBoard logs
+log/
+logs/
+runs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Google Drive / Colab artifacts
+*.json
+!kaggle.json
+
+# Byte-compiled files
+*.egg-info/
+dist/
+build/
