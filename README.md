@@ -167,3 +167,6 @@ TensorBoard logs are saved during training. To visualize:
 ## 📄 License
 
 This project is for educational purposes. Dataset and pretrained weights are subject to their respective licenses.
+
+## veiw Notebook
+[![View Notebook](https://img.shields.io/badge/Rendered%20with-NBViewer-orange?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/omprakash20071125-a11y/emotion_detection_deeplearning_project/blob/main/emotion_detection-notebook.ipynb)
